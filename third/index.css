@@ -1,8 +1,8 @@
 body {
     Margin: 0;
-    /* width: 100%;
-    height: 100vh;
-    background-color: lightgray; */
+    /* /* width: 100%;
+    height: 100vh; */
+    /* background-color: lightgray; */ 
   }
   
   
@@ -23,7 +23,7 @@ body {
   .main-content {
      margin: 5%;
      width: 75%;
-     /* height: 70vh; */
+     height: 27vh;
      background-color: white;
      text-align: center
   }
@@ -31,25 +31,25 @@ body {
   
   .colorBar1 {
      margin: 0 auto;
-     height: 10vh;
+     height: 12vh;
      width: 100%;
      background-color: royalblue;
   }
   .colorBar2 {
     margin: 0 auto;
-    height: 10vh;
+    height: 12vh;
     width: 100%;
     background-color: teal;
  }
  .colorBar3 {
     margin: 0 auto;
-    height: 10vh;
+    height: 12vh;
     width: 100%;
     background-color: yellowgreen;
  }
  .colorBar4 {
     margin: 0 auto;
-    height: 10vh;
+    height: 12vh;
     width: 100%;
     background-color: yellow;
  }
