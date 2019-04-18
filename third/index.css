@@ -1,0 +1,55 @@
+body {
+    Margin: 0;
+    /* width: 100%;
+    height: 100vh;
+    background-color: lightgray; */
+  }
+  
+  
+  .header {
+  background-color: lightgrey;
+  width: 100%;
+  height: 12vh;
+  }
+  
+  .logo {
+    height: 70%;
+    width: 60px;
+    display: inline-block;
+    background-color: rgb(118, 162, 243);
+    margin: 10px 10px 10px 10px;
+  }
+  
+  .main-content {
+     margin: 5%;
+     width: 75%;
+     /* height: 70vh; */
+     background-color: white;
+     text-align: center
+  }
+  
+  
+  .colorBar1 {
+     margin: 0 auto;
+     height: 10vh;
+     width: 100%;
+     background-color: royalblue;
+  }
+  .colorBar2 {
+    margin: 0 auto;
+    height: 10vh;
+    width: 100%;
+    background-color: teal;
+ }
+ .colorBar3 {
+    margin: 0 auto;
+    height: 10vh;
+    width: 100%;
+    background-color: yellowgreen;
+ }
+ .colorBar4 {
+    margin: 0 auto;
+    height: 10vh;
+    width: 100%;
+    background-color: yellow;
+ }
