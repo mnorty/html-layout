@@ -1,0 +1,66 @@
+.topBox {
+    margin:20px;
+    padding:10px;
+    background-color: whitesmoke;
+    border: solid;
+}
+
+.midBox{
+    margin:20px;
+    height: 300px;
+    background-color: whitesmoke;
+    border: dotted;
+}
+
+.botBox{
+    margin-left:auto;
+    margin-right:auto;
+    height: 80px;
+    width: 35%;
+    height: 220px;
+    background-color: whitesmoke;
+    border: groove;
+    border-width: 1px;
+    text-align: center;
+    color: navy;
+    letter-spacing: 10px;
+    padding: 120px;
+}
+
+.square1 {
+    margin:30px 2px 2px 2px;
+    height: 150px;
+    width: 50px;
+    background-color: blueviolet;
+    display: inline-block;
+}
+
+.square2 {
+    margin:3px 40px 3px 20px;
+    height: 200px;
+    width: 450px;
+    background-color: green;
+    display: inline-block;
+    
+}
+
+.circle {
+        width: 200px;
+        height: 200px;
+        background-color: #4aa1db;
+        border-radius: 50%;
+        display: inline-block;
+    }
+
+.innerBox{
+    margin:20px;
+    box-sizing: border-box;
+    width: 100%;
+    display: inline-block; 
+    height: 85%;
+    width: 95%;
+    background-color: rgb(225, 226, 158);
+    box-shadow: 5px 5px 2px black;
+
+
+}
